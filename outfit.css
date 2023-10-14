@@ -1,0 +1,67 @@
+body{
+    background-color: wheat;
+    color: black;
+    margin: 0%;
+}
+img{
+    width: 180px;
+    margin-left: 15px;
+}
+header{
+    display: flexbox;
+    text-align: center;
+    margin-top: 15px;
+    background-color: sandybrown;
+    color:white;
+    margin: 0%;
+}
+main{
+    display: flexbox;
+    text-align: center;
+    margin-top: 15px;
+    background-color: wheat;
+    color:white;
+    margin: 0%;
+}
+form{
+        padding: 2%;
+        text-align: center;
+        align-items: center;
+        background-color: sandybrown;
+}
+li{
+    display: inline-block;
+    margin: 20px;
+    color: royalblue;
+    font-size: x-large;
+    font-style: oblique;
+    font-weight: bolder;
+}
+h3{
+    color: rebeccapurple;
+    font-weight: bold;
+}
+#enviar{
+    height: 20px;
+    width: 50%;
+    background-color: black;
+    color: antiquewhite;
+    font-weight: bold;
+    font-style: oblique;
+}
+#enviar:hover{
+    cursor: pointer;
+}
+.história{
+display: flexbox;
+text-align: center;
+margin-top: 15px;
+background-color: wheat;
+color:white;
+margin: 0%;
+}
+p{
+    color: rebeccapurple;
+    font-size: larger;
+    font-weight: lighter;
+}
